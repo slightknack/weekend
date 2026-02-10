@@ -1,9 +1,3 @@
----
-model: claude-4-5-opus
-date: 2026-02-09
-driver: Isaac Clayton
----
-
 # weekend
 
 Quick tool for finding "optimal" flights for a long weekend. Flights are pretty expensive right now but sometimes you get lucky and can find a cross-country ticket for *wayyy* less than it usually costs.
@@ -22,3 +16,26 @@ python app.py
 ```
 
 Open `http://localhost:5001`
+
+# provenance
+
+Code:
+
+| model | date | driver |
+|---|---|---|
+| claude-4-5-opus | 2026-02-09 | Isaac Clayton |
+
+`README.md`:
+
+| date | author |
+|---|---|
+| 2026-02-09 | Isaac Clayton |
+
+Vendored:
+
+- `monospace.css` by Oskar Wickström
+- `reset.css` by Eric A. Meyer
+
+# license
+
+CC0 1.0 Universal - Public Domain
