@@ -4,6 +4,17 @@ Quick tool for finding "optimal" flights for a long weekend. Flights are pretty 
 
 I wrote about this tool here: https://isaac.sh/daily/2026-02-09.
 
+<table>
+<tr>
+<td><img src="images/00-search.png"></td>
+<td><img src="images/01-searching.png"></td>
+</tr>
+<tr>
+<td><img src="images/02-results.png"></td>
+<td><img src="images/03-detail.png"></td>
+</tr>
+</table>
+
 # running
 
 This is a simple flask app that uses HTMX. It's designed for single-user deployments, e.g. run this locally on your machine. Think of this like a python script with a UI or something. (We need to have a better way to run these types of things.)
