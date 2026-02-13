@@ -34,7 +34,7 @@ Code:
 
 | model | date | driver |
 |---|---|---|
-| claude-4-5-opus | 2026-02-09 | Isaac Clayton |
+| claude-opus-4-5 | 2026-02-09 | Isaac Clayton |
 
 `README.md`:
 
